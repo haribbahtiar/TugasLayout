@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login Steam Kawe</string>
+    <string name="features">
+        <ul>
+            \n
+            <li>Play the latest games\n</li>
+            <li>Find your Friends\n</li>
+            <li>Find the best servers\n</li>
+            <li>Get automatic updates\n</li>
+            <li>Chat with Friends, even when in-game\n</li>
+            <li>Receive Steam-only special offers</li>
+        </ul>
+    </string>
+    <string name="steam">STEAM APPS</string>
+    <string name="create_account">CREATE NEW ACCOUNT</string>
+    <string name="login_account">LOGIN TO AN EXISTING ACCOUNT</string>
+</resources>
